@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Berk Han!</h1>
 <h3 align="center">A computer engineer and aviator from Turkey.</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning Computer Networks and **C++** 
 
 - 💬 Ask me about **Python and C**
 
